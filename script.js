@@ -1,5 +1,4 @@
 /* Edit this file */
-/*
 const player = document.querySelector('.player');
 console.log(player)
 const video = player.querySelector('.viewer');
@@ -42,7 +41,4 @@ back_btn.addEventListener('click', () => {
 forward_btn.addEventListener('click', () => {
 	video.currentTime += 25;
 })
-*/
-
-
 
